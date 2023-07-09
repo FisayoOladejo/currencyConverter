@@ -1,6 +1,6 @@
 ## currencyConverter
 ---
-Real time currency converter to any currency 
+This is a real time currency converter to any currency 
 ---
 Language used: python 
 ----
